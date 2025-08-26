@@ -15,7 +15,7 @@ square_feet=length*width
 flooring=length*width*cost
 tax=flooring*.07
 total=flooring+tax
-print(f"The square feet is {square_feet}")
-print(f"The flooring is {flooring}")
-print(f"Tax{tax}")
-print(f"Total:{total}")
+print(f"Square feet: {square_feet}")
+print(f"Flooring: {flooring}")
+print(f"Tax: {tax}")
+print(f"Total: {total}")
